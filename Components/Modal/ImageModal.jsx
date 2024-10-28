@@ -120,10 +120,10 @@ const ImageModal = ({ setOpenImageModal, openImageModal }) => {
             Powered by{" "}
             <a
               className="text-primary-default cursor-pointer"
-              href="https://www.theblockchaincoders.com/SourceCode"
+              href="https://priyanshu-portfolio-beta.vercel.app/"
               target="_blank"
             >
-              @theblockchaincoders
+              @priyanshu
             </a>
           </p>
         </div>

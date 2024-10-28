@@ -30,7 +30,7 @@ const NotificationModal = () => {
         <div className="flex flex-row gap-2">
           <div>
             <a
-              href="https://www.theblockchaincoders.com/SourceCode"
+              href="https://priyanshu-portfolio-beta.vercel.app/"
               target="_blank"
               className="cursor-pointer disabled:cursor-auto transition px-5 py-2 rounded-full border flex items-center justify-center text-center text-sm border-primary-default bg-primary-default text-primary-inverse hover:border-primary-default-hover hover:bg-primary-default-hover"
             >

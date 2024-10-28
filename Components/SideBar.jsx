@@ -85,10 +85,10 @@ const SideBar = ({
       </div>
       <a
         target="_blank"
-        href="https://www.theblockchaincoders.com/SourceCode"
+        href="https://priyanshu-portfolio-beta.vercel.app/"
         className="py-4 -mb-5 border-t border-muted flex text-alternative cursor-pointer items-center hover:bg-hover px-6"
       >
-        <div className="font-medium text-sm mr-2">@theblockchain</div>
+        <div className="font-medium text-sm mr-2">@priyanshu</div>
         <SideBar_8 />
       </a>
     </div>

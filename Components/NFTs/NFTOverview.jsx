@@ -96,7 +96,7 @@ const NFTOverview = ({
                   <p className="inline">
                     By clicking confirm you agree to @theblockchaincoders
                     <a
-                      href="https://www.theblockchaincoders.com/SourceCode"
+                      href="https://priyanshu-portfolio-beta.vercel.app/"
                       className="text-primary-default hover:underline ml-1"
                       target="_blank"
                     >
