@@ -1,0 +1,135 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #34234b;
+    border-radius: .5rem;
+    padding: 0;
+    height: auto;
+    margin-bottom: 24px
+}
+
+@media (min-width: 1080px) {
+    .hero {
+        flex-direction: row;
+        height: 640px;
+        padding: 48px
+    }
+}
+
+@media (min-width: 1615px) {
+    .hero {
+        flex-direction: row;
+        align-items: flex-start
+    }
+}
+
+@media (min-width: 1080px) {
+    .hero-img-sm {
+        display: none
+    }
+}
+
+.hero-image {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right
+}
+
+@media (min-width: 1080px) {
+    .hero-image {
+        background-image: url(/assets/card-hero-art-md-6d41fd9f.png);
+        background-position-x: 300px
+    }
+}
+
+@media (min-width: 1165px) {
+    .hero-image {
+        background-image: url(/assets/card-hero-art-md-6d41fd9f.png);
+        background-position: right
+    }
+}
+
+@media (min-width: 1325px) {
+    .hero-image {
+        background-position: right
+    }
+}
+
+@media (min-width: 1615px) {
+    .hero-image {
+        background-image: url(/assets/card-hero-art-lg-f517b5db.png);
+        background-position: right
+    }
+}
+
+.get-started-btn {
+    margin: auto;
+    max-width: 370px
+}
+
+@media (min-width: 1080px) {
+    .get-started-btn {
+        margin: 0
+    }
+}
+
+.hero-content {
+    margin: 0 24px 24px;
+    max-width: 625px
+}
+
+@media (min-width: 1615px) {
+    .hero-content {
+        margin-top: 56px
+    }
+}
+
+.hero-text {
+    color: #fff;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    line-height: normal;
+    font-size: 1.5rem;
+    text-align: center
+}
+
+@media (min-width: 1080px) {
+    .hero-text {
+        font-size: 2.5rem;
+        max-width: 460px;
+        text-align: left
+    }
+}
+
+@media (min-width: 1325px) {
+    .hero-text {
+        font-size: 3.5rem;
+        max-width: none;
+        text-align: left
+    }
+}
+
+.hero-subtext {
+    margin-bottom: 1.5rem;
+    font-size: .75rem;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center
+}
+
+@media (min-width: 1080px) {
+    .hero-subtext {
+        text-align: left;
+        font-size: 1rem;
+        max-width: 460px
+    }
+}
+
+@media (min-width: 1325px) {
+    .hero-subtext {
+        text-align: left;
+        font-size: 1.5rem;
+        max-width: 480px
+    }
+}

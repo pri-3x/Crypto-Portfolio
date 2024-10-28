@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Ethereum",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/ethereum.svg"
+  },
+  {
+    "name": "Optimism",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/optimism.svg"
+  },
+  {
+    "name": "Cronos",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/cronos.svg"
+  },
+  {
+    "name": "BNB Chain",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/bsc.svg"
+  },
+  {
+    "name": "Polygon",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/polygon.svg"
+  },
+  {
+    "name": "Fantom",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/ftm.svg"
+  },
+  {
+    "name": "zkSync Era",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/zksync.svg"
+  },
+  {
+    "name": "Base",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/base.svg"
+  },
+  {
+    "name": "Arbitrum",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/arbitrum.svg"
+  },
+  {
+    "name": "Avalanche",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/avalanche.svg"
+  },
+  {
+    "name": "Linea",
+    "image": "https://token.api.cx.metamask.io/assets/networkLogos/linea.svg"
+  }
+]

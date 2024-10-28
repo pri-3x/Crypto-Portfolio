@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Open Sea",
+    "image": "/NFTMarketplace/OpenSea.png",
+    "description": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles.",
+    "link": "https://opensea.io/"
+  },
+  {
+    "name": "LooksRare",
+    "image": "/NFTMarketplace/LooksRare.png",
+    "description": "LooksRare is a community-first marketplace for NFTs and digital collectibles on Ethereum...",
+    "link": "https://looksrare.org/"
+  },
+  {
+    "name": "Blur",
+    "image": "/NFTMarketplace/Blur.png",
+    "description": "Sweep NFTs across multiple marketplaces, snipe reveals faster than others, and manage your portfolio...",
+    "link": "https://blur.io/"
+  },
+  {
+    "name": "ZORA",
+    "image": "/NFTMarketplace/Zora.png",
+    "description": "Zora is a space for creators and collectors to enjoy Ethereum and the opportunities it creates.",
+    "link": "https://zora.co/"
+  },
+  {
+    "name": "Foundation",
+    "image": "/NFTMarketplace/Foundation.png",
+    "description": "Foundation marketplace is a platform built on the Ethereum blockchain that has NFT art listings...",
+    "link": "https://foundation.app/"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CoinTracker",
+    "image": "/TokenMarketplace/CoinTracker.png",
+    "description": "Crypto taxes that simply work — CoinTracker is the US market leader with advanced DeFi coverage and seamless integrations for exchanges, wallets, NFTs, and 23,000+ DeFi smart contracts.",
+    "link": "https://opensea.io/"
+  },
+  {
+    "name": " Crypto Tax Calculator",
+    "image": "/TokenMarketplace/Crypto.png",
+    "description": "Comprehensive reporting for DeFi, NFTs and exchanges. Import MetaMask activity in a click, and file directly with TurboTax.",
+    "link": "https://looksrare.org/"
+  },
+  {
+    "name": " CoinLedger",
+    "image": "/TokenMarketplace/CoinLedger.png",
+    "description": " CoinLedger connects with ETH and hundreds of blockchains and wallets to automatically calculate your gains &amp; losses and complete your taxes. DeFi, NFTs, and advanced transactions supported.",
+    "link": "https://blur.io/"
+  },
+  {
+    "name": "ZenLedger",
+    "image": "/TokenMarketplace/ZenLedger.png",
+    "description": "End-to-end tax support for crypto traders! Calculate tax liability, download your forms, and file your return with ZenLedger. Support for all major wallets and blockchains available.",
+    "link": "https://zora.co/"
+  },
+  {
+    "name": "Koinly",
+    "image": "/TokenMarketplace/Koinly.png",
+    "description": "Koinly offers auto-imports for ETH transactions, 800+ integrations, and tax reports for 20+ countries.",
+    "link": "https://foundation.app/"
+  }
+]

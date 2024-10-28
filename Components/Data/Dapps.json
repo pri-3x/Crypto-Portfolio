@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Aave",
+    "description": "Aave protocol allows users to borrow and lend from over 30 Ethereum-based assets. Aave Protocol users can switch between stable and variable rates, depending on their preference and the state of the market, and take out flash loans. Aave also provides pools for real-world assets, like real estate, cargo and freight invoices, and payment advances with the use of its partner company, Centrifuge. Their governance token AAVE lets users vote on Aave Improvement Proposals (AIPs).",
+    "image": "/Dapp/aave.png",
+    "type": "Lend/Liquidity"
+  },
+  {
+    "name": "Alphabot",
+    "description": "Alphabot is an AI-powered tool designed to help NFT creators generate unique traits and rarities for their collections. It utilizes advanced algorithms to ensure diversity and balance in trait distribution, optimizing for both aesthetic appeal and market value. The platform offers features like trait combination suggestions, rarity scoring, and automated metadata generation, streamlining the creation process for NFT artists and developers.",
+    "image": "/Dapp/alphabot.png",
+    "type": "Creator tool"
+  },
+  {
+    "name": "ApeCoin",
+    "description": "ApeCoin is a decentralized protocol layer for community-led web3 initiatives. It serves as the governance and utility token for the APE ecosystem, which includes the Bored Ape Yacht Club NFT collection. ApeCoin holders can participate in ApeCoin DAO, influencing the ecosystem's development and fund allocation through proposal voting.",
+    "image": "/Dapp/apecoin.png",
+    "type": "Grand/DOA"
+  },
+  {
+    "name": "Arweave",
+    "description": "Arweave is a protocol where everyone can host their data without the fear of censorship or degradability. The permaweb sits on the Arweave protocol, and it hosts all of the products in the network. Arweave has profit-sharing communities, Ardrive, and Verto.",
+    "image": "/Dapp/arweave.png",
+    "type": "Creator tool"
+  },
+  {
+    "name": "Authy",
+    "description": "Go beyond the password and protect yourself from hackers and account takeovers.",
+    "image": "/Dapp/authy.png",
+    "type": "Security"
+  },
+  {
+    "name": "Balancer",
+    "description": "Launched in March 2020, Balancer is one of the preferred automated market makers on Ethereum due to features such as self-balancing weighted portfolios that ensure capital efficiency and arbitrage opportunities. Liquidity providers can provide up to eight assets, weighted by percentage and rebalanced accordingly. Balancer pools are efficiently optimized to manage interactions smoothly between traders, pools, and liquidity providers with the aim of finding the best price across multiple pools.",
+    "image": "/Dapp/balancer.png",
+    "type": "Trading"
+  },
+  {
+    "name": "Bankless",
+    "description": "Bankless is a media and community platform dedicated to onboarding the world to the crypto economy. Through podcasts, newsletters, and educational content, Bankless explores the frontier of open finance and decentralized technology, advocating for a world where traditional banking becomes obsolete.",
+    "image": "/Dapp/bankless.png",
+    "type": "News"
+  },
+  {
+    "name": "Bitwarden",
+    "description": "Bitwarden is the best password manager for securely storing, managing, and sharing sensitive online data such as passwords, passkeys, and credit cards.",
+    "image": "/Dapp/bitwarden.png",
+    "type": "Security"
+  },
+  {
+    "name": "Blockworks",
+    "description": "Blockworks is a financial media brand that delivers breaking news and premium insights about digital assets to millions of investors. With a focus on institutional adoption and market trends, Blockworks provides in-depth analysis, podcasts, and events that cater to both retail and professional audiences in the crypto space.",
+    "image": "/Dapp/blockworks.png",
+    "type": "News"
+  },
+  {
+    "name": "Boring Security",
+    "description": "Everyday people are being attacked and scammed in Web3. We started Boring Security to educate people on what they can do to remain safe in this ever-evolving space. We provide free classes, resources, tools, and other informational material to the community so that they can prevent themselves from becoming the next victim.",
+    "image": "/Dapp/boringsecurity.png",
+    "type": "Security"
+  },
+  {
+    "name": "Brave",
+    "description": "Block ads. Save data. And get way faster webpages. Just by switching your browser.",
+    "image": "/Dapp/brave.png",
+    "type": "Security"
+  },
+  {
+    "name": "Browserling",
+    "description": "Browserling is an online cross-browser testing tool that allows users to test websites in different browsers and operating systems without the need for local installations. It provides a secure sandboxed environment for accessing potentially harmful websites, making it a valuable security tool for web developers and security professionals.",
+    "image": "/Dapp/browserling.png",
+    "type": "Security"
+  },
+  {
+    "name": "Bueno",
+    "description": "From dropping a new collection to creating smart contracts, and managing artist collaborations; Bueno makes it shockingly easy to speed up your NFT tasks. Learn how you can easily turn your art into 10,000 unique PFPs—no code needed.",
+    "image": "/Dapp/bueno.png",
+    "type": "Crypto News"
+  },
+  {
+    "name": "Catchmint",
+    "description": "Catchmint is an innovative NFT marketplace that allows users to easily discover, trade, and track trending NFT collections. It provides real-time insights, advanced analytics, and a user-friendly interface to help both novice and experienced NFT enthusiasts navigate the dynamic world of digital collectibles.",
+    "image": "/Dapp/catchmint.png",
+    "type": "Trading"
+  },
+  {
+    "name": "CoinDesk",
+    "description": "CoinDesk is a global leader in blockchain and cryptocurrency news, providing comprehensive coverage of the industry since 2013. With a team of experienced journalists and analysts, CoinDesk offers breaking news, market insights, and in-depth research on all aspects of the digital asset ecosystem.",
+    "image": "/Dapp/coindesk.png",
+    "type": "News"
+  }
+]
