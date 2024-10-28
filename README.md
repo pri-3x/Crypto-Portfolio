@@ -3,6 +3,10 @@
 ## Getting Started
 
 1. Clone the repository
+   
+```bash
+git clone https://github.com/pri-3x/Crypto-Portfolio
+```
 2. Install dependencies:
 
 ```bash
@@ -40,7 +44,4 @@ NEXT_PUBLIC_DOMAIN_URL = http://localhost:3000/uploads/
 ```
 The application will be available at `http://localhost:3000`
 
-```bash
-npm run dev
-```
-The application will be available at `http://localhost:3000`
+
