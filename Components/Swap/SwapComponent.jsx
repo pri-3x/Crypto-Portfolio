@@ -243,7 +243,7 @@ const SwapComponent = () => {
             }
             className="space-x-2 p-3.5 text-sm rounded-full inline-flex justify-center items-center bg-inherit hover:bg-primary-muted text-default hover:text-info border border-default transition-colors group w-full"
           >
-            Get All Token Listed
+            Get All Token Details
           </button>
           {openTokenModal && (
             <div className="absolute flex flex-col py-1 mt-1 z-20 rounded-lg shadow-lg outline-none overflow-auto bg-default border border-muted left-0 w-full">

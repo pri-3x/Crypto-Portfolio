@@ -4,8 +4,8 @@ const sharp = require("sharp");
 const path = require("path");
 const FormData = require("form-data");
 
-const PINATA_AIP_KEY = process.env.PINATA_AIP_KEY;
-const PINATA_SECRECT_KEY = process.env.PINATA_SECRECT_KEY;
+const PINATA_API_KEY = process.env.PINATA_API_KEY;
+const PINATA_SECRET_KEY = process.env.PINATA_SECRET_KEY;
 
 const generateFileName = (imageID) => {
   const date = new Date().toISOString().replace(/:/g, "-");
@@ -74,8 +74,8 @@ const UPLOAD_IPFS_IMAGE = async (file) => {
       url: "https://api.pinata.cloud/pinning/pinFileToIPFS",
       data: formData,
       headers: {
-        pinata_api_key: PINATA_AIP_KEY,
-        pinata_secret_api_key: PINATA_SECRECT_KEY,
+        pinata_api_key: PINATA_API_KEY,
+        pinata_secret_api_key: PINATA_SECRET_KEY,
         "Content-Type": "multipart/form-data",
       },
     });
@@ -93,8 +93,8 @@ const UPLOAD_METADATA = async (data) => {
     url: "https://api.pinata.cloud/pinning/pinJSONToIPFS",
     data: data,
     headers: {
-      pinata_api_key: PINATA_AIP_KEY,
-      pinata_secret_api_key: PINATA_SECRECT_KEY,
+      pinata_api_key: PINATA_API_KEY,
+      pinata_secret_api_key: PINATA_SECRET_KEY,
       "Content-Type": "application/json",
     },
   });

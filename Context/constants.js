@@ -30,8 +30,8 @@ export const BASE_TOKEN_MARKETPLACE_ADDRESS =
   process.env.NEXT_PUBLIC_BASE_TOKEN_MARKETPLACE;
 
 //PINATE API - SECRECT KEYS
-const PINATA_AIP_KEY = process.env.NEXT_PUBLIC_PINATA_AIP_KEY;
-const PINATA_SECRECT_KEY = process.env.NEXT_PUBLIC_PINATA_SECRECT_KEY;
+const PINATA_API_KEY = process.env.NEXT_PUBLIC_PINATA_API_KEY;
+const PINATA_SECRET_KEY = process.env.NEXT_PUBLIC_PINATA_SECRET_KEY;
 
 const openai = new OpenAI({
   apiKey: process.env.NEXT_PUBLIC_OPEN_AI_KEY,
@@ -127,8 +127,8 @@ export const UPLOAD_IPFS_IMAGE = async (file) => {
       url: "https://api.pinata.cloud/pinning/pinFileToIPFS",
       data: formData,
       headers: {
-        pinata_api_key: PINATA_AIP_KEY,
-        pinata_secret_api_key: PINATA_SECRECT_KEY,
+        pinata_api_key: PINATA_API_KEY,
+        pinata_secret_api_key: PINATA_SECRET_KEY,
         "Content-Type": "multipart/form-data",
       },
     });
@@ -145,8 +145,8 @@ export const UPLOAD_METADATA = async (data) => {
     url: "https://api.pinata.cloud/pinning/pinJSONToIPFS",
     data: data,
     headers: {
-      pinata_api_key: PINATA_AIP_KEY,
-      pinata_secret_api_key: PINATA_SECRECT_KEY,
+      pinata_api_key: PINATA_API_KEY,
+      pinata_secret_api_key: PINATA_SECRET_KEY,
       "Content-Type": "application/json",
     },
   });

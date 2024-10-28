@@ -4,7 +4,7 @@ const dotenv = require("dotenv");
 const cookieParser = require("cookie-parser");
 
 const next = require("next");
-dotenv.config({ path: "./config.env" });
+dotenv.config({ path: "./.env.local" });
 const dev = process.env.NODE_ENV != "production";
 const nextServer = next({ dev });
 const handle = nextServer.getRequestHandler();

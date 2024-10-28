@@ -202,7 +202,7 @@ const CreateToken = ({ setOpenComponent, setOpenSideBar }) => {
                 <div className="space-y-3 mt-5">
                   <div className="flex justify-between items-end">
                     <div className="font-bold text-left text-default">
-                      Sypply
+                      Supply
                     </div>
                   </div>
                   <div>
@@ -219,7 +219,7 @@ const CreateToken = ({ setOpenComponent, setOpenSideBar }) => {
                       </div>
 
                       <div className="flex pt-2 -mb-2 text-xs text-alternative">
-                        You do not have any BNB available to swap
+                       
                       </div>
                     </div>
                   </div>
