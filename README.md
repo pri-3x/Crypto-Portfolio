@@ -1,6 +1,8 @@
 # Build & Deploy a Crypto Portfolio DApp | NFT & ERC20 Exchange for Any Blockchain | MetaMask Portfolio Clone
+file:///home/priyanshu/Pictures/Screenshots/Screenshot%20from%202024-10-28%2020-28-11.png
 
 ![Crypto Portfolio DApp](/home/priyanshu/Pictures/Screenshots/Screenshot from 2024-10-28 20-28-11.png)
+
 
 ## Getting Started
 
